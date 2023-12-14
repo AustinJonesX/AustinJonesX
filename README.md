@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **Computer Science @ ASU**
 - 💞️ I’m looking to collaborate on anything. I'm always willing to try something new.
 - 📫 How to reach me *ajones.git@gmail.com*
+- 📚 Comfortable languages: ***Java***
 
 <!---
 AustinJonesX/AustinJonesX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
